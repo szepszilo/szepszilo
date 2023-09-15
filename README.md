@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/szepszilo" target="blank"><img src="https://img.shields.io/twitter/follow/szepszilo?logo=twitter&style=for-the-badge" alt="szepszilo" /></a> </p>
 
-- 🔭 I’m currently working on [CzeroClean](szepszilveszter.nhely.hu)
+- 🔭 I’m currently working on [CzeroClean](szepszilo.hu)
 
 - 🌱 I’m currently learning **HTML, CSS, Bootstrap, PHP, Javascript, Python**
 
